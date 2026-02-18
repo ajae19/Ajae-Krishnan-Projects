@@ -5,7 +5,7 @@ SQL + Tableau Business Intelligence Project
 
 ![Dashboard Preview](Dashboard/dashboard_preview.png)
 
-🔗 Live Dashboard: [View on Tableau Public]([your-link-here](https://public.tableau.com/views/E-CommerceRevenuePerformanceAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Live Dashboard: [View on Tableau Public]([your-link-here](https://public.tableau.com/views/E-CommerceRevenuePerformanceAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 
