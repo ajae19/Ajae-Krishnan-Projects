@@ -1,6 +1,8 @@
 E-Commerce Revenue Performance Analysis
 
-[Dashboard Preview](Dashboard/Dashboard_1.png)
+
+![Dashboard Preview](Dashboard/dashboard_preview.png)
+
 
 
 Project Overview
