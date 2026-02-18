@@ -1,5 +1,7 @@
 E-Commerce Revenue Performance Analysis
 
+SQL + Tableau Business Intelligence Project
+
 
 ![Dashboard Preview](Dashboard/dashboard_preview.png)
 
@@ -20,6 +22,14 @@ Project Overview
 	Extract actionable business insights
 
 	The project combines SQL data analysis with Tableau dashboard visualization to simulate a real-world business intelligence workflow.
+
+Project Structure
+
+	SQL/ → Analysis queries
+	Data/ → Aggregated datasets used for dashboard
+	Raw_Data/ → Original Olist dataset files
+	Dashboard/ → Tableau dashboard preview
+	README.md → Project documentation
 
 Tools & Technologies
 
